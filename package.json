@@ -1,0 +1,14 @@
+{
+  "name": "bank-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Customer.js",
+  "scripts": {
+    "test": "Jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
